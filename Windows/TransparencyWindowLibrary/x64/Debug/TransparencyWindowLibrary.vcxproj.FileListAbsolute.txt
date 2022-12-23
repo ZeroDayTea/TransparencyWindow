@@ -1,0 +1,2 @@
+E:\Coding\TransparencyWindow\TransparencyWindowLibrary\x64\Debug\TransparencyWindowLibrary.dll
+E:\Coding\TransparencyWindow\Windows\TransparencyWindowLibrary\x64\Debug\TransparencyWindowLibrary.dll
